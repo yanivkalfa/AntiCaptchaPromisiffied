@@ -1,0 +1,22 @@
+{
+  "name": "anti-captchap-romisiffied",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "yaniv kalfa",
+    "email": "yanivkalfa@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanivkalfa/anti-captchap-romisiffied.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "anticaptcha",
+    "anti",
+    "captcha",
+    "promissify"
+  ],
+  "homepage": "https://github.com/yanivkalfa/anti-captchap-romisiffied.git#readme"
+}
